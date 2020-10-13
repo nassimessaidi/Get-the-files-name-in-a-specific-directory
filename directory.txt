@@ -1,0 +1,15 @@
+Ex5.1.py
+Ex5.10.py
+Ex5.2.py
+Ex5.3.py
+Ex5.5.py
+Ex5.6.py
+Ex5.7.py
+Ex5.8.py
+Ex5.9.py
+get_files.py
+PalindromeNumber.py
+PalindromeTest.py
+TestLab.py
+______________________________
+Number of files are: 13
