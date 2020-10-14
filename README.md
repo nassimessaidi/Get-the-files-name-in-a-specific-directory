@@ -16,5 +16,5 @@ The script comes with more comments to describe almost every line of code on it.
 You have all the right to use the script for personal use.
 ## Running the Script
 ![Run the script](http://4.bp.blogspot.com/-RDLUbaB-h4Q/X4W19HuIGcI/AAAAAAAAChg/0Mi5TPYDlp0ri4Ihgi5OGjGx7ot38a2eQCK4BGAYYCw/s1600/get%2Bfiles.png)
-### Open the output file `directory.txt`
+#### Open the output file `directory.txt`
 * [Output file](./directory.txt)
