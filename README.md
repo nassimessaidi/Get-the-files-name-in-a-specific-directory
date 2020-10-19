@@ -1,7 +1,7 @@
 # Get-the-files-name-in-a-specific-directory
 You can extract the names of the files in current directory (path) or another custom directory in your OS.
 ## Description
-You can extract just the files in a specific directory or path, for example, if you have files inside another directory the script can not walk into it, so it behaves like a  `-maxdepth 2`  parameter if you are familiar with the Linux command.
+You can extract just the files in a specific directory or path, for example, if you have files inside another directory the script can not walk into it, so it behaves like a  `-maxdepth 1`  parameter if you are familiar with the Linux command.
 So, It's shown only the files exists in that current directory without entering to other folders to look for all files into it.
 
 After extracting all the files names in the target directory, the script stores them in a file called directory.txt with the number of files out there.
